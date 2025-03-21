@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Albarracín Mauro Tupac</h1>
-<h3 align="center">Game Developer | Game Designer | Game Tester | QA</h3>
+<h3 align="center">Game Developer | Game Designer | Game Tester </h3>
 
 
 <p align="center">
